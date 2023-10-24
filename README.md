@@ -1,4 +1,4 @@
-# Statistical-Learning
+# Statistical-learning
 
 ## Supervised
 The second leading cause of death worldwide is stroke according to the world health 
